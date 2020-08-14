@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "assesment5"
+    }
+  },
+  "defaultProject": "assesment5",
+  "cli": {
+    "analytics": false
+  }
 }
